@@ -21,7 +21,7 @@ Before running terraform to deploy resources, the following is required:
 
 In order to deploy the application to your AWS account follow these steps.
 1. `git clone` this repo to your computer.
-2. change the current working directory to *terraform/environment/staging*
+2. change the current working directory to *fargate/*
 3. Run `terraform init`
 4. Run `terraform apply`
 5. the application will be available at the provided URL presented as output upon completion
