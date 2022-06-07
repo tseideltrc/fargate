@@ -1,6 +1,6 @@
 variable cidr {
   type        = string
-  default     = "10.10.0.0/16"
+  default     = ""
   description = "The IPv4 CIDR block for the VPC"
 }
 
